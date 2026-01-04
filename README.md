@@ -1,4 +1,4 @@
-                                                           [![DOI](https://zenodo.org/badge/1127451405.svg)](https://doi.org/10.5281/zenodo.18142788)
+[![DOI](https://zenodo.org/badge/1127451405.svg)](https://doi.org/10.5281/zenodo.18142788)
 
 🔍 Improved YOLOv10-m: A High-Accuracy and Real-Time Object Detection Framework for Precision Applications
 
