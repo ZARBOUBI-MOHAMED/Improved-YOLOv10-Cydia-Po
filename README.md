@@ -1,4 +1,4 @@
-🔍 Improved YOLOv10-m: An Enhanced Object Detection Framework for Precision Applications
+🔍 Improved YOLOv10-m: A High-Accuracy and Real-Time Object Detection Framework for Precision Applications
 
 Improved YOLOv10-m is an advanced deep learning–based object detection framework derived from the YOLOv10 architecture, specifically designed to enhance feature representation and fine-grained object recognition. The model achieves a strong balance between detection accuracy, computational efficiency, and real-time inference performance, making it well suited for deployment in resource-constrained and real-world environments.
 
