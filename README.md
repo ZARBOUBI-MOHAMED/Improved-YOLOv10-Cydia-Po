@@ -38,4 +38,4 @@ This repository includes:
 - `ultralytics/Myfiles/Imp_yolov10m.yaml` – Full Improved YOLOv10-m model structure (for easy modification or transfer learning).
 - `ultralytics/Myfiles/Cydia_Po_der.yaml` – Example configuration file for dataset structure and class labels.
 -  `Dataset/Cydia_Po` – Curated pest detection dataset with images and YOLO-formatted annotations.
-- `YOLO_Evo.ipynb` – Jupyter Notebook to track the stages of uploading files and training the model on custom data.
+- `Improved_YOLOv10_Cydia_Po.ipynb` – Jupyter Notebook to track the stages of uploading files and training the model on custom data.
