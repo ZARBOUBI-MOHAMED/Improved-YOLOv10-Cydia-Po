@@ -39,3 +39,5 @@ This repository includes:
 - `ultralytics/Myfiles/Cydia_Po_der.yaml` – Example configuration file for dataset structure and class labels.
 -  `Dataset/Cydia_Po` – Curated pest detection dataset with images and YOLO-formatted annotations.
 - `Improved_YOLOv10_Cydia_Po.ipynb` – Jupyter Notebook to track the stages of uploading files and training the model on custom data.
+
+[![DOI](https://zenodo.org/badge/1127451405.svg)](https://doi.org/10.5281/zenodo.18142788)
