@@ -1,3 +1,5 @@
+                                                           [![DOI](https://zenodo.org/badge/1127451405.svg)](https://doi.org/10.5281/zenodo.18142788)
+
 🔍 Improved YOLOv10-m: A High-Accuracy and Real-Time Object Detection Framework for Precision Applications
 
 Improved YOLOv10-m is an advanced deep learning–based object detection framework derived from the YOLOv10 architecture, specifically designed to enhance feature representation and fine-grained object recognition. The model achieves a strong balance between detection accuracy, computational efficiency, and real-time inference performance, making it well suited for deployment in resource-constrained and real-world environments. Its performance has been extensively evaluated on a dedicated Cydia pomonella pest detection dataset, demonstrating its effectiveness in precision agriculture applications.
@@ -39,5 +41,3 @@ This repository includes:
 - `ultralytics/Myfiles/Cydia_Po_der.yaml` – Example configuration file for dataset structure and class labels.
 -  `Dataset/Cydia_Po` – Curated pest detection dataset with images and YOLO-formatted annotations.
 - `Improved_YOLOv10_Cydia_Po.ipynb` – Jupyter Notebook to track the stages of uploading files and training the model on custom data.
-
-[![DOI](https://zenodo.org/badge/1127451405.svg)](https://doi.org/10.5281/zenodo.18142788)
